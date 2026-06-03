@@ -249,3 +249,7 @@ O objetivo é promover:
 - organização  
 - inclusão  
 - apoio educacional  
+
+---
+
+**Última atualização:** 2 de junho de 2026
