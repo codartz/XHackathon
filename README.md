@@ -1,6 +1,6 @@
 # PROJETO INTEGRADOR
 
-# Atípica  
+# Atípica 🧩
 Tecnologia que se adapta à mente  
 
 Assistente Inteligente de Apoio Pessoal e Educacional para Pessoas com Transtorno do Espectro Autista (TEA)
@@ -21,7 +21,7 @@ Assistente Inteligente de Apoio Pessoal e Educacional para Pessoas com Transtorn
 
 ## 📌 Sobre o Projeto
 
-O **Atípica** é uma assistente digital inteligente e personalizada desenvolvida para auxiliar pessoas com Transtorno do Espectro Autista (TEA) no gerenciamento da rotina diária, planejamento de estudos, organização de tarefas e apoio cognitivo.
+O **Atípica** é uma projeto em desenvolvinemnto com foco em uma assistente digital inteligente e personalizada para auxiliar pessoas com Transtorno do Espectro Autista (TEA) no gerenciamento da rotina diária, planejamento de estudos, organização de tarefas e apoio cognitivo.
 
 ---
 
@@ -45,7 +45,10 @@ Pessoas com TEA frequentemente enfrentam desafios relacionados a:
 
 A ausência de ferramentas personalizadas impacta diretamente a autonomia, o aprendizado e a qualidade de vida.
 
+---
+
 ### Problema central
+
 **Como a tecnologia pode se adaptar às necessidades cognitivas individuais de pessoas com TEA para oferecer suporte diário personalizado?**
 
 ---
